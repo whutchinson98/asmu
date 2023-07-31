@@ -1,0 +1,21 @@
+[package]
+name = "asmu"
+description = "aws secrets manager utlity"
+version = "0.0.0"
+edition = "2021"
+authors = ["whutchinson98"]
+include = ["src/**/*.rs"]
+categories = ["command-line-utilities"]
+homepage = "https://github.com/whutchinson98/asmu"
+repository = "https://github.com/whutchinson98/asmu"
+license = "MIT"
+readme = "README.md"
+keywords = [
+    "cli",
+    "command",
+    "command-line",
+    "aws",
+    "secrets-manager",
+]
+
+[dependencies]
